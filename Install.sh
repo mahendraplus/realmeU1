@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 echo "Created by mahendraplus(m4u.yt)"
 echo "Installation Starting..."
 cd
