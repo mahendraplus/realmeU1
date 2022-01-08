@@ -4,6 +4,8 @@ Realme U1 Lag Fix  📲
 
 ### STEP:1
 ```
+su
+
 mkdir -p /data/adb/service.d
 ```
 
