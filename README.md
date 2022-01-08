@@ -1,6 +1,7 @@
 # realmeU1
 Realme U1 Lag Fix  📲 
-
+##DOWNLOAD FILE
+https://github.com/mahendraplus/realmeU1/releases/download/Realmeu1/fix1.sh
 
 ### STEP:1
 ```
