@@ -2,9 +2,22 @@
 Realme U1 Lag Fix  📲 
 
 
-### Instant Run ∅n=> Termux :🚫
-```
-sh -c "$(curl -fsSL curl https://raw.githubusercontent.com/mahendraplus/realmeU1/main/Install.sh)"
+### STEP:1
+''' 
+mkdir -p /data/adb/service.d
+ '''
 
-```
+### STEP:2
+'''
+cp /sdcard/fix1.sh /data/adb/service.d/ 
+'''
 
+### STEP:3
+'''
+chmod +x /data/adb/service.d/fix1.sh
+'''
+
+### Run 
+'''
+bash fix1.sh
+'''
